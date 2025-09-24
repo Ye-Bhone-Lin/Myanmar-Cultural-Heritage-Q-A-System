@@ -159,7 +159,6 @@ Myanmar's rich cultural heritage is documented in various sources, but accessing
 ├── ingestion/              # Data ingestion scripts and chunks
 ├── knowledge_base/         # Vector DB and retrieval logic
 ├── documents.pkl, vector.index # Precomputed data
-├── monitoring/             # (Add monitoring dashboard code here)
 └── README.md               # Project documentation
 ```
 
